@@ -11,7 +11,7 @@ An interactive desktop application that records or loads voice samples, transcri
 - [Prerequisites](#prerequisites)  
 - [How to Install and Run](#how-to-install-and-run)  
 - [How to Use the Project](#how-to-use-the-project)  
-- [Screenshots / Media](#screenshots--media)  
+- [Media](#media)  
 - [Future Enhancements](#future-enhancements)  
 - [Contributing](#contributing)  
 - [License](#license)  
@@ -101,9 +101,7 @@ pip install tkinter whisper language-tool-python sounddevice soundfile numpy tex
 
 ---
 
-## Screenshots / Media
-
-![Demo Screenshot](https://drive.google.com/uc?export=view&id=1d_5oHVP3XHxugWX3zwZi-Qru_VitvFEB)
+## Media
 
 > **Watch a full demo:**  
 > https://drive.google.com/file/d/1d_5oHVP3XHxugWX3zwZi-Qru_VitvFEB/view?usp=sharing
