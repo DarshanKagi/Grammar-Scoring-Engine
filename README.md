@@ -59,6 +59,8 @@ Python packages (install via `pip`):
 
 ```bash
 pip install tkinter whisper language-tool-python sounddevice soundfile numpy textstat
+```
+
 ---
 
 ## How to Install and Run
